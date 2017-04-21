@@ -2,8 +2,20 @@
 ## 初期研究内容
 ### 研究对象
 机器学习/人工智能方面的实验对象（程序）  10~20个常用的项目
+- Paddle
+- fchollet/keras
+- dmlc/mxnet
+- pymc-devs/pymc3
+- shogun-toolbox/shogun
+- nmap/nmap
+- tensorflow/tensorflow
+- lisa-lab/pylearn2
+- numenta/nupic
+- Scikit-learn
+- BVLC/caffe
 
-### 分析内容
+
+### 预定分析内容
 1. 对象创建日期，规格，演化版本次数，被使用次数，时间（持续时间），评论或CCList人数；
 2. Bug数量，Bug分类（算法方面/代码方面），Bug等级（严重，一般等）；
 3. 参与人数，修改规模；
